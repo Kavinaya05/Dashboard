@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Dashboard/static/css/main.14dbe674.css",
+    "main.js": "/Dashboard/static/js/main.b641afe9.js",
+    "static/media/special_food.jpg": "/Dashboard/static/media/special_food.f46312ad3138f66df8d5.jpg",
+    "static/media/biryani.jpg": "/Dashboard/static/media/biryani.ced4193a8904d10ec091.jpg",
+    "static/media/parotta.jpg": "/Dashboard/static/media/parotta.010a1e65a102d36d970e.jpg",
+    "static/media/full_meals.jpg": "/Dashboard/static/media/full_meals.83d5067cc33cd1e27c09.jpg",
+    "static/media/variety_rice_combo.jpg": "/Dashboard/static/media/variety_rice_combo.99da45caa2c91415b986.jpg",
+    "static/media/sandwich.jpg": "/Dashboard/static/media/sandwich.b3af1dcee88a00a9b153.jpg",
+    "static/media/noodles.jpg": "/Dashboard/static/media/noodles.739f808a98e5df192497.jpg",
+    "static/media/fried_rice.jpg": "/Dashboard/static/media/fried_rice.1aea090c2b171458a92a.jpg",
+    "static/media/logo.jpg": "/Dashboard/static/media/logo.26ca7a87c9476d2be24f.jpg",
+    "index.html": "/Dashboard/index.html",
+    "main.14dbe674.css.map": "/Dashboard/static/css/main.14dbe674.css.map",
+    "main.b641afe9.js.map": "/Dashboard/static/js/main.b641afe9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.14dbe674.css",
+    "static/js/main.b641afe9.js"
+  ]
+}
